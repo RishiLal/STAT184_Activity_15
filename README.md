@@ -18,6 +18,12 @@ There is no pre-existing data for the Volume of the box plot code.
 ___
 
 ## Current Plan for the Project:
-This repository is currently being used to submit Activity-14, based off of the instructions given in Activity-15.
+This repository is currently being used to submit Activity-14, based off of the instructions given in Activity-15. <br>
+If there are any problems that need to be solved in accordance with the instructions for Activity-15, then I'll be adding onto these files.
 
 ## Organization of the Repo:
+Main Branch
+'dev' Branch
+
+## My Contact Information:
+If you would like to contact me, please don't hesitate to do so at rxl5565@psu.edu.
